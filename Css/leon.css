@@ -194,7 +194,7 @@ body {
 /* Start Landing */
 .landing {
   background-size: cover;
-  background-image: url(/imgs/pexels-johannes-plenio-1103970.jpg);
+  background-image: url(https://images.pexels.com/photos/1054218/pexels-photo-1054218.jpeg?auto=compress&cs=tinysrgb&w=600);
   height: calc(100vh - 61px);
   position: relative;
 }
