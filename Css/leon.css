@@ -191,7 +191,7 @@ body {
 /* Start Landing */
 .landing {
   background-size: cover;
-  background-image: url(/imgs/jerry-zhang-hkhCV41gOpA-unsplash.jpg);
+  background-image: url(IMG-20220304-WA0058.jpg);
   height: calc(100vh - 61px);
   position: relative;
 }
