@@ -505,6 +505,12 @@ body {
   color: var(--mainColor);
 }
 
+@media (max-width:767px) {
+  .contact .container .text .label {
+    font-size: 25px;
+  }
+}
+
 .contact .container .text .link {
   display: block;
   font-size: 35px;
@@ -513,6 +519,12 @@ body {
   color: var(--mainColor);
   text-decoration: none;
   transition-duration: 0.3s;
+}
+
+@media (max-width:767px) {
+  .contact .container .text .link {
+    font-size: 25px;
+  }
 }
 
 .contact .container .text .link:hover {
